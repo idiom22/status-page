@@ -17,8 +17,8 @@ sites:
 status-website:
   # No custom domain yet - uncomment/set `cname` instead of `baseUrl` if one gets added later
   baseUrl: /status-page
-  name: Server Status
-  introTitle: "**Server Status**"
+  name: Craigflix Status
+  introTitle: "**Craigflix Status**"
   introMessage: Live status for Jellyfin and related services. Checked automatically every 5 minutes.
   navbar:
     - title: Status
