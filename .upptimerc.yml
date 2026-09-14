@@ -15,8 +15,7 @@ sites:
     url: https://requests.craigflix.net/
 
 status-website:
-  # No custom domain yet - uncomment/set `cname` instead of `baseUrl` if one gets added later
-  baseUrl: /status-page
+  cname: status.craigflix.net
   name: Craigflix Status
   introTitle: "**Craigflix Status**"
   introMessage: Live status for Jellyfin and related services. Checked automatically every 5 minutes.
